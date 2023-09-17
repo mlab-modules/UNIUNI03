@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/UNIUNI03.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/UNIUNI03.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/UNIUNI03
+summary: UNIUNI03A
