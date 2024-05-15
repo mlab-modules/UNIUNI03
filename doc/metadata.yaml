@@ -1,6 +1,6 @@
-description: UNIUNI03A
+description: Universal breadboard PCB for MLAB kit system
 github_branch: UNIUNI03A
-github_description: UNIUNI03A
+github_description: Universal breadboard PCB for MLAB kit system
 github_repo: UNIUNI03
 github_url: https://github.com/mlab-modules/UNIUNI03
 homepage: false
@@ -9,6 +9,8 @@ images:
 - doc/img/UNIUNI03A_QRcode.png
 mark: 50
 status: 2
-tags: []
+tags:
+- breadboard
+- mlab-module
 title: UNIUNI03
-updated: '2024-05-15T11:16:24.040122+00:00'
+updated: '2024-05-15T11:17:27.123466+00:00'
