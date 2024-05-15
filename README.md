@@ -1,12 +1,7 @@
 
 [Czech](./README.cs.md)
 <!--- module --->
-# UNIUNI03A
-<!--- Emodule --->
+# UNIUNI03A - Universal breadboard PCB for MLAB kit system
 
-<!--- subtitle --->None<!--- Esubtitle --->
+![UNIUNI03A](/doc/img/UNIUNI03A_small.jpg)
 
-![UNIUNI03A](/doc/img/UNIUNI03A_QRcode.png)
-
-<!--- description --->UNIUNI03A<!--- Edescription --->
-            
